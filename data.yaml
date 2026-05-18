@@ -1,0 +1,5 @@
+train: C:/Users/Adarsh/OneDrive/Desktop/major project/dataset/images/train
+val: C:/Users/Adarsh/OneDrive/Desktop/major project/dataset/images/valid
+
+nc: 3
+names: ['animal', 'human', 'weapon']
